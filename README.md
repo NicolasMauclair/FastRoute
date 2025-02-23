@@ -6,7 +6,7 @@ Itineo est une application web permettant de rechercher et d'optimiser des traje
 
 1. Clonez le dépôt :
    ```sh
-   git clone https://github.com/votre-repo/FastRoute.git
+   git clone https://github.com/NicolasMauclair/itineo.git
    cd FastRoute
    ```
 
